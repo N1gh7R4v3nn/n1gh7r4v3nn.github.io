@@ -234,3 +234,10 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# Favicon configuration
+favicon:
+  mstile_150x150: "/assets/img/logo.jpg"
+  apple_touch_icon: "/assets/img/logo.jpg"
+  favicon_32x32: "/assets/img/logo.jpg"
+  favicon_16x16: "/assets/img/logo.jpg"
